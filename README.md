@@ -1,5 +1,5 @@
 # FragmentCommunication
-Shows communication between fragment to fragment and fragment to activity.
+Shows communication between fragment to fragment and fragment to activity using interface.
 
 ##### <b> Attaching some screenshots: </b> 
 
